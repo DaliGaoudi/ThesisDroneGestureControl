@@ -1,0 +1,7 @@
+opencv-python
+djitellopy
+numpy
+mediapipe
+tensorflow
+PyQt5
+cv2

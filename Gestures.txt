@@ -1,0 +1,7 @@
+Open Palm: Takeoff
+OK sign: Land
+Pointing Up/Down: Ascend/Descend (+-20 cm or until no gesture is detected)
+Pointing Left/Right: Rotate Left/Right (+-30 degrees or until no gesture is detected)
+
+
+Thumbs Up/Down: Forward/Backward (+-50 cm or until no gesture is detected)
