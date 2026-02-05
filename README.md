@@ -26,7 +26,7 @@ python drone_gesture_control_gui_pyqt
 ## Project Structure
 
 - `test_drone.py`: Basic drone connection and control test
-- `gesture_control.py`: Hand gesture recognition and drone control implementation
+- `gestures.py`: Hand gesture recognition and drone control implementation
 - 'drone_gesture_control_gui_pyqt.py': GUI
 - `utils/`: Utility functions and helper modules
 
