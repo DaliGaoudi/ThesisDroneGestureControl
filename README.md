@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 3. Run the basic test script:
 ```bash
-python test_drone.py
+python drone_gesture_control_gui_pyqt
 ```
 
 ## Project Structure
